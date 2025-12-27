@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+    <style>
+        body {
+            background-color: #ffeef2;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: auto;
+            background: #fff5f8;
+            border-radius: 12px;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #ff5c8a;
+        }
+        h2 {
+            color: #ff5c8a;
+            border-bottom: 1px solid #ffb6c9;
+            padding-bottom: 5px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .footer {
+            text-align: center;
+            color: #ff5c8a;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🌸 GIỚI THIỆU BẢN THÂN 🌸</h1>
+
+    <h2>👤 Thông tin cá nhân</h2>
+    <p><b>Họ và tên:</b> Đinh Việt Hải</p>
+    <p><b>Ngày sinh:</b> 06/02/2008</p>
+    <p><b>Quê quán:</b> Hạ Long, Quảng Ninh</p>
+    <p><b>Trường/Lớp:</b> THPT Hòn Gai – Lớp 12A4</p>
+
+    <h2>💡 Sở thích</h2>
+    <ul>
+        <li>Nghe nhạc</li>
+        <li>Chơi game</li>
+    </ul>
+
+    <h2>😊 Tính cách</h2>
+    <p>
+        Em là người có tính cách hòa đồng, vui vẻ, dễ gần và luôn sẵn sàng
+        giao tiếp, giúp đỡ mọi người xung quanh. Trong học tập cũng như trong
+        các hoạt động tập thể, em luôn cố gắng hợp tác tốt với bạn bè.
+    </p>
+
+    <h2>🎯 Mục tiêu</h2>
+    <p>
+        Đỗ vào đại học Y, tiếp tục học tập và rèn luyện bản thân để phát triển
+        toàn diện, trở thành người có ích cho gia đình và xã hội.
+    </p>
+
+    <div class="footer">
+        💗 Cảm ơn bạn đã ghé thăm trang GitHub của mình 💗
+    </div>
+</div>
+
+</body>
+</html>
