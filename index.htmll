@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Giới thiệu bản thân</title>
+    <style>
+        body {
+            background-color: #ffeef2;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            margin: auto;
+            background: #fff5f8;
+            border-radius: 12px;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #ff5c8a;
+        }
+        h2 {
+            color: #ff5c8a;
+            border-bottom: 1px solid #ffb6c9;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        img {
+            width: 100%;
+            border-radius: 12px;
+            margin-top: 10px;
+        }
+        .footer {
+            text-align: center;
+            color: #ff5c8a;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🌸 GIỚI THIỆU BẢN THÂN 🌸</h1>
+
+    <h2>👤 Thông tin cá nhân</h2>
+    <p><b>Họ và tên:</b> Đinh Việt Hải</p>
+    <p><b>Ngày sinh:</b> 06/02/2008</p>
+    <p><b>Quê quán:</b> Hạ Long, Quảng Ninh</p>
+    <p><b>Trường/Lớp:</b> THPT Hòn Gai – Lớp 12A4</p>
+
+    <h2>💡 Sở thích</h2>
+    <ul>
+        <li>Nghe nhạc</li>
+        <li>Chơi game</li>
+    </ul>
+
+    <h2>🎯 Mục tiêu</h2>
+    <p>
+        Đỗ vào đại học Y và tiếp tục học tập, rèn luyện, phát triển bản thân
+        để trở thành người có ích cho xã hội.
+    </p>
+
+    <h2>📷 Hình ảnh mình trân trọng</h2>
+    <img src="anh.jpg" alt="Ảnh kỷ niệm">
+
+    <p style="text-align:center;">Hình ảnh mang nhiều kỷ niệm đáng trân trọng</p>
+
+    <div class="footer">
+        💗 Cảm ơn bạn đã ghé thăm trang GitHub của mình 💗
+    </div>
+</div>
+
+</body>
+</html>
